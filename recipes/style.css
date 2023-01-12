@@ -1,9 +1,16 @@
+*{
+    color: #525252;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
 h1 {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     font-weight: bold;
+    color: rgb(150, 0, 0);
 }
 
 h2 {
     font-family: Arial, Helvetica, sans-serif;
+    color: rgb(71, 121, 61);
 }
